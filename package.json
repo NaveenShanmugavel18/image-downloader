@@ -1,0 +1,12 @@
+{
+  "name": "saveimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "author": "Naveen Shanmugavel",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "request": "^2.88.0"
+  }
+}
